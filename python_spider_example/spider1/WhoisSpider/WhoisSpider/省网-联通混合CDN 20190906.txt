@@ -1,0 +1,841 @@
+zone "qcloud.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "gtimg.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qpic.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qlogo.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "flzhan.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qqopenapp.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qzoneapp.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "twsapp.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tencent-cloud.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "smtcdns.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "txcdns.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "smtcdns.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "yunfandns.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "vd.l.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "mgslb.com" {
+        forwarders { 113.215.2.222;};
+zone "ourdvsss.com" {
+        forwarders { 113.215.2.222;};
+zone "mediav.com" {
+        forwarders { 113.215.2.222;};
+zone "btime.com" {
+        forwarders { 113.215.2.222;};
+zone "qhres.com" {
+        forwarders { 113.215.2.222;};
+zone "qhres2.com" {
+        forwarders { 113.215.2.222;};
+zone "qhmsg.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimgs4.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimgs3.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimgs2.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimgs1.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimgs0.com" {
+        forwarders { 113.215.2.222;};
+zone "qhimg.com" {
+        forwarders { 113.215.2.222;};
+zone "down.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "cdn20.com" {
+        forwarders { 113.215.2.222;};
+zone "wscdns.com" {
+        forwarders { 113.215.2.222;};
+zone "ott-load-quchuan-2014138373.cn-north-1.elb.amazonaws.com.cn" {
+        forwarders { 113.215.2.222;};
+zone "ott-load-tvos-200590062.cn-north-1.elb.amazonaws.com.cn" {
+        forwarders { 113.215.2.222;};
+zone "chinamaincloud.com" {
+        forwarders { 113.215.2.222;};
+zone "mmy.ats" {
+        forwarders { 113.215.2.222;};
+zone "mmycdn.net" {
+        forwarders { 113.215.2.222;};
+zone "mmycdn.com" {
+        forwarders { 113.215.2.222;};
+zone "ca.tv.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "ws-glsb.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "media.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "hlsglsb.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "tv.t002.ottcn.com" {
+        forwarders { 113.215.2.222;};
+zone "ali-hlsgslb.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "cdnle.com" {
+        forwarders { 113.215.2.222;};
+zone "interface.hdslb.net" {
+        forwarders { 113.215.2.222;};
+zone "myqcloud.com" {
+        forwarders { 113.215.2.222;};
+zone "dayugslb.com" {
+        forwarders { 113.215.2.222;};
+zone "tencent-cloud.net" {
+        forwarders { 113.215.2.222;};
+zone "tcdnvod.com" {
+        forwarders { 113.215.2.222;};
+zone "tcdnlive.com" {
+        forwarders { 113.215.2.222;};
+zone "cdntip.com" {
+        forwarders { 113.215.2.222;};
+zone "ucloud.com.cn" {
+        forwarders { 113.215.2.222;};
+zone "cdndo.com" {
+        forwarders { 113.215.2.222;};
+zone "chinanetcenter.com" {
+        forwarders { 113.215.2.222;};
+zone "webcdn.cloudxns.pptv.com" {
+        forwarders { 113.215.2.222;};
+zone "sandai.net" {
+        forwarders { 113.215.2.222;};
+zone "xunlei.com" {
+        forwarders { 113.215.2.222;};
+zone "kankan.com" {
+        forwarders { 113.215.2.222;};
+zone "p2cdn.com" {
+        forwarders { 113.215.2.222;};
+zone "httpdnslej.satadn.com" {
+        forwarders { 113.215.2.222;};
+zone "api.map.baidu.com" {
+        forwarders { 113.215.2.222;};
+zone "app.bilibili.com" {
+        forwarders { 113.215.2.222;};
+zone "interface.bilibili.com" {
+        forwarders { 113.215.2.222;};
+zone "nor1111.ipswitchss.ourdvs.com" {
+        forwarders { 113.215.2.222;};
+zone "chyd-wsvod.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "ali-gslb.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "upgrade.k.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "h5vv.video.qq.com.trp.tc.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "vv.video.qq.com.trp.tc.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "cgiaccess.tc.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "cgiaccess.tcdn.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "h5wx.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "bkvv.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "rvv.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "bkh5vv.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "h5vv.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "pb.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "av.video.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "c002.ottcn.com" {
+        forwarders { 113.215.2.222;};
+zone "verygslb.com" {
+        forwarders { 113.215.2.222;};
+zone "xundayun.com" {
+        forwarders { 113.215.2.222;};
+zone "cs-cache.com" {
+        forwarders { 113.215.2.222;};
+zone "verycdn.net" {
+        forwarders { 113.215.2.222;};
+zone "www.ipswitch.ourdvs.com" {
+        forwarders { 113.215.2.222;};
+zone "aicdn.com" {
+        forwarders { 113.215.2.222;};
+zone "upaiyun.com" {
+        forwarders { 113.215.2.222;};
+zone "00cdn.com" {
+        forwarders { 113.215.2.222;};
+zone "yunfancdn.com" {
+        forwarders { 113.215.2.222;};
+zone "yflive.net" {
+        forwarders { 113.215.2.222;};
+zone "ksyuncdn.com" {
+        forwarders { 113.215.2.222;};
+zone "ks-cdn.com" {
+        forwarders { 113.215.2.222;};
+zone "interface.url.hifuntv.com" {
+        forwarders { 113.215.2.222;};
+zone "hadns.net" {
+        forwarders { 113.215.2.222;};
+zone "cachecn.net" {
+        forwarders { 113.215.2.222;};
+zone "cachecn.com" {
+        forwarders { 113.215.2.222;};
+zone "cloudglb.com" {
+        forwarders { 113.215.2.222;};
+zone "fastwebcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "fastweb.com" {
+        forwarders { 113.215.2.222;};
+zone "hacdn.net" {
+        forwarders { 113.215.2.222;};
+zone "cloudcdn.net" {
+        forwarders { 113.215.2.222;};
+zone "owlglsb.wasu.tv" {
+        forwarders { 113.215.2.222;};
+zone "pcvideocc.imgo.tv" {
+        forwarders { 113.215.2.222;};
+zone "pcvcr.cdn.imgo.tv" {
+        forwarders { 113.215.2.222;};
+zone "vcntv.tcdn.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "f.1ting.com" {
+        forwarders { 113.215.2.222;};
+zone "jomodns.com" {
+        forwarders { 113.215.2.222;};
+zone "jd.com" {
+        forwarders { 113.215.2.222;};
+zone "jdcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "aipai.com" {
+        forwarders { 113.215.2.222;};
+zone "kukuplay.com" {
+        forwarders { 113.215.2.222;};
+zone "wtv.v.iask.com" {
+        forwarders { 113.215.2.222;};
+zone "v.iask.com" {
+        forwarders { 113.215.2.222;};
+zone "sinaedge.com" {
+        forwarders { 113.215.2.222;};
+zone "ccpic.wanmeiyueyu.com" {
+        forwarders { 113.215.2.222;};
+zone "appdown.wanmeiyueyu.com" {
+        forwarders { 113.215.2.222;};
+zone "jobsfe.funshion.com" {
+        forwarders { 113.215.2.222;};
+zone "tls3.funshion.com" {
+        forwarders { 113.215.2.222;};
+zone "tls.funshion.com" {
+        forwarders { 113.215.2.222;};
+zone "ls3.funshion.com" {
+        forwarders { 113.215.2.222;};
+zone "ls.funshion.com" {
+        forwarders { 113.215.2.222;};
+zone "rio.6rooms.com" {
+        forwarders { 113.215.2.222;};
+zone "oir.6rooms.com" {
+        forwarders { 113.215.2.222;};
+zone "softdl.360tpcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "qhcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "track.kuaiwan.com" {
+        forwarders { 113.215.2.222;};
+zone "cache.kuaiwan.com" {
+        forwarders { 113.215.2.222;};
+zone "chinacache.net" {
+        forwarders { 113.215.2.222;};
+zone "ccgslb.net" {
+        forwarders { 113.215.2.222;};
+zone "ccgslb.com.cn" {
+        forwarders { 113.215.2.222;};
+zone "gls.acadn.com" {
+        forwarders { 113.215.2.222;};
+zone "dn-dns.com" {
+        forwarders { 113.215.2.222;};
+zone "flxdns.com" {
+        forwarders { 113.215.2.222;};
+zone "ewcache.com" {
+        forwarders { 113.215.2.222;};
+zone "fastcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "tlgslb.com" {
+        forwarders { 113.215.2.222;};
+zone "ips.ifeng.com" {
+        forwarders { 113.215.2.222;};
+zone "flv.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "hdflv.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "hcflv.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "dd.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "he.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "hd.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "hc.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "www.gslb.yytcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "hlscc.yinyuetai.com" {
+        forwarders { 113.215.2.222;};
+zone "greenping.cdn.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "blive.coop.gslb.letv.com" {
+        forwarders { 113.215.2.222;};
+zone "coop.gslb.letv.com" {
+        forwarders { 113.215.2.222;};
+zone "front.g3.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "bplay.g3proxy.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "coop.g3proxy.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "live.g3proxy.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "play.g3proxy.lecloud.com" {
+        forwarders { 113.215.2.222;};
+zone "g3.letv.cn" {
+        forwarders { 113.215.2.222;};
+zone "g3.letv.com" {
+        forwarders { 113.215.2.222;};
+zone "itc.cn" {
+        forwarders { 113.215.2.222;};
+zone "sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "data.vod.itc.cn" {
+        forwarders { 113.215.2.222;};
+zone "iosapps.itunes.apple.com" {
+        forwarders { 113.215.2.222;};
+zone "appldnld.apple.com" {
+        forwarders { 113.215.2.222;};
+zone "ourwebat.com" {
+        forwarders { 113.215.2.222;};
+zone "ourwebhttps.com" {
+        forwarders { 113.215.2.222;};
+zone "ourglb0.com" {
+        forwarders { 113.215.2.222;};
+zone "ourwebcdn.com" {
+        forwarders { 113.215.2.222;};
+zone "ourwebpic.com" {
+        forwarders { 113.215.2.222;};
+zone "ourdvs.com" {
+        forwarders { 113.215.2.222;};
+zone "glb0.lxdns.com" {
+        forwarders { 113.215.2.222;};
+zone "wscnczhdngdvdl01.dns.iqiyi.com." {
+        forwarders { 113.215.2.222;};
+zone "data.video.dns.iqiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "dns.iqiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "m3u8.live.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "cdata.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "f.live.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "p2sdata.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "sf.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "f.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "data.video.qiyi.com" {
+        forwarders { 113.215.2.222;};
+zone "aps0550.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "aps0041.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "s.plcloud.music.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "base.music.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "speed.tgp.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "tc.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "tcdn.qq.com" {
+        forwarders { 113.215.2.222;};
+zone "gslb.tv.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "hot.vrs.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "dispatch.hd.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "wsglb0.com" {
+        forwarders { 113.215.2.222;};
+//20180102 update
+zone "gs.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "gd.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "gdv.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "fhs.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "f7hs.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "f7hsv.a.sohu.com" {
+        forwarders { 113.215.2.222;};
+zone "yfcdn.net" {
+        forwarders { 113.215.2.222;};
+//20180502 UPDATE
+zone "wswebpic.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "wswebcdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "wsdvs.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "lxdns.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "swcdn.apple.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ourglb.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "osxapps.itunes.apple.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "apptrailers.itunes.apple.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ourdxz.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180516 UPDATE
+zone "dlgslb.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180522 UPDATE
+zone "kg.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180628 UPDATE
+zone "tp.fjgat.gov.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180720 UPDATE
+zone "c.cdnhwc1.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "rrs.cdnhwc2.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "appdl.hicloud.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "c.cdnhwc2.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//180723 update
+zone "gz.pttc.aiseet.atianqi.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ck.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "aoma.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "gz.pttc.t002.ottcn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "bkupdate.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tt.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "info.zb.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "pingma.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tv.ott.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "livepoll.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tvlog.aiseet.atianqi.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "play.v.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "rcgi.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "s.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "vqq.miaozhen.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tunnel.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "vqq.admaster.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "oc.cgiaccess.tcdn.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "lives.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "btrace.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "register.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "pay.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "flvnew.tv.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ioma.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "mdevstat.qqlive.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "sv.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tj.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "livew.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "mzaccess.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "fanslive.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "update.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "proxy-set1.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "mobile.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "stat.qqlive.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "uv.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "zb.cgi.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "livep.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "access.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qzpb.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ncgi.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "sns.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "update.tga.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "livec.l.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "ncgi.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qzvv.video.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "smusic.tcdn.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "omgmta1.qq.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180803 update
+zone "163jiasu.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180817 update
+zone "shifen.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180903 update
+zone "chinacache.com.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "lxsvc.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "data.video.dns.ptqy.gitv.tv" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "data.video.ptqy.gitv.tv" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20180926 UPDATE
+zone "hitopdl.hicloud.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "appdlssl.dbankcdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "update.dbankcdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//UPDATE 20181019
+zone "wsssec.com" {
+        forwarders {113.215.2.222;113.215.2.223;};
+zone "wscloudcdn.com" {
+        forwarders {113.215.2.222;113.215.2.223;};
+zone "mwcname.com" {
+        forwarders {113.215.2.222;113.215.2.223;};
+//20181030 update
+zone "jdvod-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "le-play-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "300hu-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "bfn-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//20181207 update
+zone "m8c.music.126.net" {
+        forwarders {113.215.2.222;113.215.2.223;};
+zone "vodkgeyttp9c.vod.126.net" {
+        forwarders {113.215.2.222;113.215.2.223;};
+//190302 update
+zone "xm-bfp-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "mfn-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qa-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "bft-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "toutiao-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "txg-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "tvxio-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "mbest-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "live-360-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "le-live-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "s-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "dl-sched.jcloud-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//UPDATE 20190320
+zone "m.educity.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "www.educity.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "1628809.sp.tencdns.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "1628854.sp.tencdns.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//update 20190527
+zone "dig.bdurl.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//UPDATE 20190603
+zone "d.pcs.baidu.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//UPDATE 20190610
+zone "hub5pr.sandai.net" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//190701 update
+zone "360vcloud.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "vcloudgtm.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "g1awi.cn" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "qh-cdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "360qhcdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "360imgcdn.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//190722
+zone "web.newlive.gslb.pptv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//180930update 190806update 190815update
+zone "qingcdn.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "trpcdn.net" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "bsgslb.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "bsclink.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "bsgslb.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "dolfindns.net" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "solocdn.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "bsccdn.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "baishan-cloud.net" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "azchcdnb.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "cdn.miguvideo.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "qn.qnydns.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "ctxcdn.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "zllxyun.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+//update190806 190815update
+zone "dolfincdnx.com" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "dolfincdnx.cn" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+zone "dolfincdnx.net" {
+        forwarders { 223.111.146.200;120.226.80.132;123.59.102.23;};
+//update 190819
+zone "ott.liveapi.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "disp.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "disp1.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "disp2.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "web-disp.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "web-disp1.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "web-disp2.titan.mgtv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+zone "live.api.hunantv.com" {
+        forwarders { 113.215.2.222;113.215.2.223;};
+//update 190830
+zone "alicdn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "tbcache.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "alikunlun.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "alikunlun.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunaq.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunar.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunca.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunluncan.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunea.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlungem.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlungr.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunhuf.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunle.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunli.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunno.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunpi.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunra.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunsa.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunsc.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunsl.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunso.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunta.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunvi.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kunlunwe.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "hichinacdn.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "b.aocde.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "alivecdn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ialicdn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "myalicdn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "m.cdngslb.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "w.cdngslb.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "nxtianshangb.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "mvtianshanlr.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "zwtianshangm.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "jjtianshangi.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "mftianshanam.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "jvtianshanuu.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "uetianshanyp.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "gdtianshanoa.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ditianshanhe.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ybtianshantu.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "gktianshanjd.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "kjtianshanxu.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "netianshannu.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "titianshanfz.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "iqtianshanmw.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "gctianshanxh.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "pftianshanno.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vctianshanvs.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "qutianshanav.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "letianshanec.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "tgtianshanga.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "lotianshangx.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "wztianshanfs.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "jftianshancn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "bytianshankd.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ghtianshancn.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "p.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "pl2.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "stat.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "matrix.tudou.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "v2.tudou.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "pl.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "k.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vr.tudou.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "danuoyi.tbcache.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "w.alikunlun.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "m.kunlunle.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vali.cp12.wasu.tv" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vali.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ntd.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "m-ntd.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "m-vali.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vali-dns.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "play2-download.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "play302-download.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "valipl.cp31.ott.cibntv.net" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "ups.video.ums.uc.cn" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "vali.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "cdn.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+zone "aliyun.youku.com" {
+        forwarders { 101.200.28.73;203.107.0.200;121.43.18.42;120.25.118.65;};
+[root@lths-dns1 named]#
+
