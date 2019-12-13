@@ -1,0 +1,15 @@
+rsa==4.0
+pyvmomi==6.7.1.2018.12
+Scrapy==1.6.0
+paramiko==2.4.2
+pysnmp==4.4.8
+pycurl==7.43.0.2
+browsermob-proxy==0.8.0
+selenium==3.141.0
+PyVirtualDisplay==0.2.4
+IPy==1.0
+dnspython==1.16.0
+pychrome
+websocket_server
+websocket-client
+gevent
