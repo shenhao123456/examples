@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@File  : test.py
+@File  : ws_client.py
 @Author: sh
 @Date  : 2019/5/24
 @Desc  :

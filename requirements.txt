@@ -13,3 +13,4 @@ pychrome
 websocket_server
 websocket-client
 gevent
+websocket-client==0.56.0

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/12/13 13:55
 # @Author  : shenhao
-# @File    : test.py
+# @File    : ws_client.py
 import pyshark
 
 # display_filter = "http.response.code==200"
