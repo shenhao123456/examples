@@ -6,7 +6,7 @@
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import scan
 
-es = Elasticsearch([{'host': '30.207.39.18', 'port': 9200}], timeout=3600,)
+es = Elasticsearch([{'host': '30.207.39.18', 'port': 9200}], timeout=3600, )
 
 
 def scan_query(index, body, size=10000):
@@ -65,3 +65,17 @@ if __name__ == '__main__':
     ]
     index = "113.215.230.13--2019*"
     data = query(index, body, return_fields)
+
+c = {
+    "query": {
+        "match": {
+            "ip_list": "17.253.87.206"
+        },
+        "range": {
+            '@timestamp': {
+                "gt": "2019-12-05T05:16:00",
+                "lt": "2019-12-05T05:16:10",
+            }
+        }
+    }
+}
