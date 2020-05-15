@@ -5,7 +5,7 @@
 # @File    : test2.py
 import pyshark
 
-display_filter = "http.response.code==200"
+display_filter = "http.request.method == \"GET\""
 # display_filter = "udp"
 
 # 打开存储的捕获文件
@@ -14,8 +14,8 @@ cap = pyshark.FileCapture('抖音.pcapng', keep_packets=False, display_filter=di
 
 i = 1
 for item in cap:
-    if i == 2:
-        break
+    # if i == 2:
+    #     break
     # print(dir(item))
     # print(item.highest_layer)  #应用层协议
     # print(item.transport_layer)  #传输层协议
@@ -32,14 +32,14 @@ for item in cap:
     # print(item.ip.src)
     # print(item.ip.ttl)
     # print(item.ip.version)
-
+    #
     # print(dir(item.tcp))
     # print(item.tcp.srcport)
     # print(item.tcp.dstport)
 
     # print(dir(item.http))
-    # print(item.http.field_names)
-    # print(item.http.response_for_uri)
+    print(item.http.field_names)
+    print(item.http.request_full_uri)
 
     # print(dir(item.data))
     # print(item.data.field_names)
