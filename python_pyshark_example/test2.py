@@ -16,33 +16,33 @@ i = 1
 for item in cap:
     if i == 2:
         break
-    # print(dir(item))
-    # print(item.highest_layer)  #应用层协议
-    # print(item.transport_layer)  #传输层协议
+        # print(dir(item))
+        # print(item.highest_layer)  #应用层协议
+        # print(item.transport_layer)  #传输层协议
 
-    # print(dir(item.frame_info))
-    # print(item.frame_info.protocols)
+        # print(dir(item.frame_info))
+        # print(item.frame_info.protocols)
 
-    # print(dir(item.eth))
-    # print(item.eth.src)
-    # print(item.eth.dst)
+        # print(dir(item.eth))
+        # print(item.eth.src)
+        # print(item.eth.dst)
 
-    # print(dir(item.ip))
-    # print(item.ip.dst)
-    # print(item.ip.src)
-    # print(item.ip.ttl)
-    # print(item.ip.version)
+        # print(dir(item.ip))
+        # print(item.ip.dst)
+        # print(item.ip.src)
+        # print(item.ip.ttl)
+        # print(item.ip.version)
 
     # print(dir(item.tcp))
     # print(item.tcp.srcport)
     # print(item.tcp.dstport)
 
-    # print(dir(item.http))
-    # print(item.http.field_names)
-    # print(item.http.response_for_uri)
+    print(dir(item.http))
+    print(item.http.field_names)
+    print(item.http.response_for_uri)
 
-    # print(dir(item.data))
-    # print(item.data.field_names)
-    # print(item.data.data)
-    # print(item.data.len)
+# print(dir(item.data))
+# print(item.data.field_names)
+# print(item.data.data)
+# print(item.data.len)
     i += 1
